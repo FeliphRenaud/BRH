@@ -1,15 +1,3 @@
 ## Semana 4 
 
-Plsql e Packages.
-
-1. Criar procedure insere_projeto.
-
-2. criar função que calcule idade. 
-
-3. Publicação de comandos utilizados. 
-
-4. criar Função finalizar Projeto. 
-
-A baixo link de acesso as atividades no drive:
-
-https://drive.google.com/drive/folders/1lje5ddSZxyXY-HLojoDOTqJmkTCdJFCy
+Para ter acesso as atividades desta semana va até a branch Semana4
